@@ -6,7 +6,7 @@
 Zakoduj dostarczony projekt graficzny w formie html/css/js, wszystkie potrzebne pliki graficzne znajdują się się w folderze /images.
 
 ## Projekt graficzny
-* [tutaj](https://www.figma.com/file/3ioDpce6hHIYScUDBRCtbE/player-APP-mobile?node-id=0%3A1)
+* [tutaj](https://www.figma.com/file/3ioDpce6hHIYScUDBRCtbE/player-APP-mobile)
 
 ## Opis funkcjonalności:
 * Kropki w prawym górnym rogu otwierają menu wysuwane z prawej strony
