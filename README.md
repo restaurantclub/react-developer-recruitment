@@ -26,4 +26,4 @@ Zakoduj dostarczony projekt graficzny w formie html/css/js, wszystkie potrzebne 
 
 ## Rozwiązanie
 
-Wykonane zadanie prosze umieścić na publicznym repozytorniu.
+Wykonane zadanie prosze umieścić na publicznym repozytorium.
