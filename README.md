@@ -15,22 +15,10 @@ Zakoduj dostarczony projekt graficzny w formie html/css/js, wszystkie potrzebne 
 * Ikonka w dolnym lewym rogu, otwiera menu wysuwane z dołu z listą wszystkich utworów
 * Player ma tylko imitować grającą muzykę, nie oczekujemy działającej aplikacji
 
-## Mile widziane:
-1. Czysty kod (linters, prettier)
-2. Testy
-
-## Na co będziemy zwracali szczególną uwagę:
-1. Jak wygląda podział kodu na komponenty.
-2. Jak wygląda redax store oraz komunikacja z nim.
-3. Reużywalność komponentów
-4. Sposób implementacji logiki biznesowej.
-5. Optymalizacje w kodzie, dobre praktyki.
-6. Sposób komunikacji z API.
-7. Obsługa wyjątków.
-
-
 ## Technologia
-
 * Wybór technologii dowolny, css, scss, sass, less, js, es6.  
 * Wszelka inwencja twórcza w animacjach jest dozwolona.
 
+## Rozwiązanie
+
+Wykonane zadanie prosze umieścić na publicznym repozytorniu.
