@@ -20,10 +20,10 @@ Zakoduj dostarczony projekt graficzny w formie html/css/js, wszystkie potrzebne 
 * Reużywalność komponentów
 * Optymalizacje w kodzie, dobre praktyki.
 
-## Technologia
+## Technologia:
 * Wybór technologii dowolny, css, scss, sass, less, js, es6.  
 * Wszelka inwencja twórcza w animacjach jest dozwolona.
 
-## Rozwiązanie
+## Rozwiązanie:
 
 Wykonane zadanie prosze umieścić na publicznym repozytorium.
